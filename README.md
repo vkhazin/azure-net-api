@@ -1,4 +1,4 @@
-Deploy WebApi App to Azure App Service
+Deploy WebApi App to Azure API App
 =
 
 # Overview
